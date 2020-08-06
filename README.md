@@ -20,3 +20,5 @@ Usage of ./splitter:
   -target string
         Target File to split
 ````
+
+Thanks @jordanpotti
